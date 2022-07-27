@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable-anydpi/tab_ic.xml" value="0.109" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.337" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable-v24/itembutton_false.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable-v24/itembutton_true.xml" value="0.163" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/background.xml" value="0.3245" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/borderbottom.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/borderline.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/itembutton_f.xml" value="0.2425" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/itembutton_false.xml" value="0.175" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/itemclickevent.xml" value="0.3245" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/main_outer.xml" value="0.2295" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/side_bottomR_outer.xml" value="0.2295" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/side_bottom_outer.xml" value="0.175" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/side_bottoml_outer.xml" value="0.2295" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/side_bottomr_outer.xml" value="0.2295" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/side_outer.xml" value="0.175" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/solid_button.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/solid_categorybutton.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/drawable/solid_itembutton.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/activity_main.xml" value="0.14457831325301204" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/child_list.xml" value="0.1734375" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/etcmenu_page.xml" value="0.11775362318840579" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/list_child.xml" value="0.1" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/list_header.xml" value="0.17552083333333332" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/mainmenu_page.xml" value="0.16" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/menu_list.xml" value="0.35885416666666664" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/menuappend_page.xml" value="0.33" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/menumodify_page.xml" value="0.5" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/option.xml" value="0.2" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/option_off.xml" value="0.17552083333333332" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/option_on.xml" value="0.5" />
+        <entry key="..\:/Temp/Android-Java/project/appendmenu/app/src/main/res/layout/sidemenu_page.xml" value="0.11775362318840579" />
+        <entry key="..\:/Users/ood12/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
